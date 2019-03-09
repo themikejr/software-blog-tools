@@ -4,6 +4,7 @@ title: Linux, Entropy, Random Number Generation, and you
 subtitle: "Or 'How I learned to stop worrying and use /dev/urandom'"
 layout: post
 categories: ["How Things Work"]
+description: "Random number generation is important in cryptography. Application developers: make sure you are using a randomness source that provides the needed level of performance."
 comments: true
 ---
 
