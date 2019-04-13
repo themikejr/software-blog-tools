@@ -2,15 +2,15 @@
 layout: post
 title: An Atlas for Learning React
 subtitle: "Something like a mind map, because learning something like React is complicated."
-layout: post
 categories: ["How Things Work", "React"]
-description: "A guide to learning the concepts and ecosystem of react (a somewhat popular javascript library"
+description: "A guide to learning the concepts and ecosystem of react (a somewhat popular javascript library)"
 comments: true
 ---
 
 Learning something like [React](https://reactjs.org/) takes time. For every excellent react resource that exists on the internet, there are several poorly written tutorials showing you how to make a todo list app. This 'atlas' serves as a guide for myself and others. 
 It will probably be updated over time.
 Information found in the glossary of terms is largely indebted to the various resources mentioned here. 
+
 ## Conceptual Overviews
 
 * [The official React guide to main concepts](https://reactjs.org/docs/hello-world.html)
@@ -25,6 +25,11 @@ Information found in the glossary of terms is largely indebted to the various re
 
 * [Next.js](https://nextjs.org/), Server-side rendering
 * [Redux](https://redux.js.org/)
+
+## Tutorials
+
+* [Official React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+* [The Road to React with Firebase](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_REACT_WITH_FIREBASE)
 
 ## People
 
