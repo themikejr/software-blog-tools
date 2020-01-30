@@ -54,7 +54,7 @@ We all know that possible the most common problem to crop up in software teams i
 
 In light of this, software teams must focus on keeping their products' cost of change consistently low.
 
-There is an ever growing pool of tools and methods to achieve this. Test-driven development, automated checks, automatic code styling, lint rules, CI jobs, and code review processes are among some of the most prominent.
+There is an ever growing pool of tools and methods to achieve this. Test-driven development, automated checks, automatic code styling, lint rules, CI jobs, [keeping your dependencies up to date]({% post_url 2019-12-13-regular-dependency-updates %}), and code review processes are among some of the most prominent.
 
 If a software team fails to keep the cost of change low ("not enough time!", "I can do that later", "We don't really need that yet") they are really just biding their time until the next expensive rewrite.
 
