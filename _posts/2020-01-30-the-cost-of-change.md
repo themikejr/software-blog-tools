@@ -1,5 +1,5 @@
 ---
-title: "Flatten the Cost of Change Curve, you must."
+title: "Flatten the Cost-of-Change Curve, you must."
 subtitle: "A key success factor of software development teams."
 layout: post
 categories: ["Practices"]
@@ -37,7 +37,7 @@ There are many angles to this (sociological, economic, cultural, etc...) but it 
 
 Software has taken the world by storm precisely because it can be so malleable at such a low cost.
 
-Double-entry accounting done on paper includes an enormous amount of work if something changes once calculations are made. With software, the change is easy and thus the recalculations are automatic. 
+Double-entry accounting done on paper includes an enormous amount of work if something changes once calculations are made. With software, the change is easy and thus the recalculations are automatic.
 
 Yes, submitting information digitally rather than physically reduces errors (by validating input) and slashes delivery costs, but at the end of the day the value of a digital submission process is in how easy it is to change. Adding a new validation rule, requiring a different type of information or adding a review process is relatively inexpensive to implement once a system is up and running.
 
