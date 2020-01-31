@@ -59,4 +59,4 @@ There is an ever growing pool of tools and methods to achieve this. Test-driven 
 
 If a software team fails to keep the cost of change low ("not enough time!", "I can do that later", "We don't really need that yet") they are really just biding their time until the next expensive rewrite.
 
-#### If a team cannot exercise discipline to manage the cost of change, as a wise man once said, ["then the Emperor has already won"](https://getyarn.io/yarn-clip/609961ff-f41a-4056-8368-f87e438c3eb1#/OT5Cc0Nu3m).
+#### If a team cannot exercise discipline to manage the cost of change, as a wise man once said, ["then the Emperor has already won"](https://getyarn.io/yarn-clip/609961ff-f41a-4056-8368-f87e438c3eb1#/OT5Cc0Nu3m){:target="_blank"}.
