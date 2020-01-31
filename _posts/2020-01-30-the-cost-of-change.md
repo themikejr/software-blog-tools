@@ -31,7 +31,7 @@ Why?
 
 Software itself is highly malleable which allows its output to likewise be very pliable.
 
-There are many angles to this (sociological, economic, cultural, etc...) but it seems to me that a key factor is how easy it can be to change software and thus modify its output. Costs associated with changing software (including time) different from other media by orders of magnitude.
+There are many angles to this (sociological, economic, cultural, etc...) but it seems to me that a key factor is how easy it can be to change software and thus modify its output. Costs associated with changing software (including time) differ from other media by orders of magnitude.
 
 ## Software's ability to change is a primary competitive advantage
 
@@ -43,6 +43,7 @@ Yes, submitting information digitally rather than physically reduces errors (by 
 
 Publishing is another industry revolutionized by software. Just think about the difference between publishing updates to an ebook compared to printing the second edition of a physical book.
 
+It is economically "better" to employ software for a given task precisely because it can be so easy to modify and update.
 
 ## Therefore, consistently low cost of change is essential to maximizing its intrinsic benefits
 
@@ -50,7 +51,7 @@ So, how is this discussion relevant to an individual software developer or a sof
 
 **To achieve these economic advantages, software must *remain* inexpensive to change.**
 
-We all know that possible the most common problem to crop up in software teams is that as a codebase or system ages and gains more functionality, it can become very difficult to change. This can be magnified by having a multiplicity of contributors spanning cultures and continents. As functions get longer, if statements are added, comments become stale, and files get huge, a system loses the economic benefits that made it profitable in the first place.
+We all know that possibly the most common problem to crop up in software teams is that as a codebase or system ages and gains more functionality it becomes very difficult to change. If code isn't clean and readable and if relevant tasks aren't documented and automated, making small changes to the system can take inordinate amounts of time and effort. This can be magnified by having a multiplicity of contributors who may come and go, each knowing a part of the system better than the whole. As functions get longer, if statements are added, comments become stale, and files get huge, a system loses the economic benefits that made it profitable in the first place.
 
 In light of this, software teams must focus on keeping their products' cost of change consistently low.
 
