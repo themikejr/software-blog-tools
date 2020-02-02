@@ -17,7 +17,7 @@ First, let me attempt to express the essence of the idea:
 
 In argument form, it might look like this:
 
-1. Software is highly malleable medium
+1. Software is a highly malleable medium
 2. Software's ability to change is a primary competitive advantage
 3. Therefore, consistently low cost of change is essential to maximizing its intrinsic benefits
 
@@ -31,7 +31,7 @@ Why?
 
 Software itself is highly malleable which allows its output to likewise be very pliable.
 
-There are many angles to this (sociological, economic, cultural, etc...) but it seems to me that a key factor is how easy it can be to change software and thus modify its output. Costs associated with changing software (including time) differ from other media by orders of magnitude.
+There are many angles to this (sociological, economical, cultural, etc...) but it seems to me that a key factor is how easy it can be to change software and thus modify its output. Costs associated with changing software (including time) differ from other media by orders of magnitude.
 
 ## Software's ability to change is a primary competitive advantage
 
